@@ -44,3 +44,6 @@ A dedicated guide discussing potential vulnerabilities and how the system mitiga
 “Security isn’t just a feature — it’s a promise.”
 
 This project is a step toward building trustworthy digital spaces through intentional design.
+
+
+--> Ready to encrypt the future 🔐✨
